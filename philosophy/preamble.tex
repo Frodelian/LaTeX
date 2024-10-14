@@ -5,29 +5,20 @@
 \usepackage[utf8]{inputenc} % Кодировка документа
 
 %За шрифты
+\usepackage{fontspec} % обязательно для XeLaTeX
 \usepackage[hidelinks]{hyperref}
 \usepackage{xcolor}
 \usepackage{ulem}
 \usepackage{enumitem}
-\usepackage{fontspec}
-
-%За определения 
-\usepackage{amsthm}
-\theoremstyle{plain}
-\newtheorem{theorem}{Теорема}[section]
-\newtheorem{corollary}{Следствие}[theorem]
-\newtheorem*{definition}{Определение}
 
 %Пакеты Американского математического общества 
 \usepackage{amsmath, amsfonts, amssymb, amsthm, mathtools}
 
-%Баг(английский,французский стандарт) с первым обзацем в главе 
+%Английский,французский стандарт отступа в начале главы
 \usepackage{indentfirst}
 
 %Установка полей
 \usepackage[a4paper, left=20.00mm, right=20.00mm, top=20.00mm, bottom=20.00mm]{geometry} 
-
-%Колонтитулы
 \usepackage{titleps}
 \newpagestyle{main}{
     \setfootrule{0.4pt}
@@ -35,4 +26,4 @@
 }
 \pagestyle{main}
 
-
+% xelatex main.tex    
