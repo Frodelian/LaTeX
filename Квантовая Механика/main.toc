@@ -1,0 +1,7 @@
+\babel@toc {english}{}\relax 
+\contentsline {section}{\numberline {1}Место квантовой теории в современной картине мира}{2}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Вглубь вещества}{2}{subsection.1.1}%
+\contentsline {subsubsection}{\numberline {1.1.1}Частицы и поля}{2}{subsubsection.1.1.1}%
+\contentsline {section}{\numberline {2}Основная часть}{3}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Подраздел}{4}{subsection.2.1}%
+\contentsline {section}{\numberline {3}Заключение}{5}{section.3}%

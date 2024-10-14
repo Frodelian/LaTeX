@@ -1,0 +1,19 @@
+\babel@toc {english}{}\relax 
+\contentsline {section}{\numberline {1}Физические основы работы полупроводниковых приборов}{2}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Атом}{2}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Ионизация}{3}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3}Зонная теория}{5}{subsection.1.3}%
+\contentsline {subsection}{\numberline {1.4}Собственная электропроводность полупроводников}{7}{subsection.1.4}%
+\contentsline {subsection}{\numberline {1.5}Распределение электронов по энергетическим уровням}{9}{subsection.1.5}%
+\contentsline {subsection}{\numberline {1.6}Примесная электропроводность полупроводников}{10}{subsection.1.6}%
+\contentsline {subsubsection}{\numberline {1.6.1}Донорные примеси}{10}{subsubsection.1.6.1}%
+\contentsline {subsubsection}{\numberline {1.6.2}Акцепторные примеси}{12}{subsubsection.1.6.2}%
+\contentsline {subsection}{\numberline {1.7}Процессы переноса зарядов в полупроводниках}{13}{subsection.1.7}%
+\contentsline {subsubsection}{\numberline {1.7.1}Дрейфовый ток}{13}{subsubsection.1.7.1}%
+\contentsline {subsubsection}{\numberline {1.7.2}Диффузия носителей заряда}{14}{subsubsection.1.7.2}%
+\contentsline {subsection}{\numberline {1.8}Электрические переходы}{15}{subsection.1.8}%
+\contentsline {subsubsection}{\numberline {1.8.1}Электронно-дырочный переход}{15}{subsubsection.1.8.1}%
+\contentsline {subsubsection}{\numberline {1.8.2}Вентильное свойство $\boldsymbol {p-n}$-перехода}{18}{subsubsection.1.8.2}%
+\contentsline {section}{\numberline {2}Основные понятия об электрической цепи}{22}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Подраздел}{23}{subsection.2.1}%
+\contentsline {section}{\numberline {3}Заключение}{24}{section.3}%

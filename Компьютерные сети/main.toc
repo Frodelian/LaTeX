@@ -1,0 +1,5 @@
+\babel@toc {english}{}\relax 
+\contentsline {section}{\numberline {1}Введение}{2}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Применение компьютерных сетей}{2}{subsection.1.1}%
+\contentsline {subsubsection}{\numberline {1.1.1}Сети в организациях}{3}{subsubsection.1.1.1}%
+\contentsline {subsubsection}{\numberline {1.1.2}Использование сетей частными лицами}{5}{subsubsection.1.1.2}%

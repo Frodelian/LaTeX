@@ -1,0 +1,12 @@
+\babel@toc {russian}{}\relax 
+\contentsline {section}{\numberline {1}Что нужно понимать при трудоустройстве?}{2}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Узнать о целевых показателях при трудоустройстве}{2}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Делайте резервное копирование и согласовывайте схему резервного копирования с руководством}{2}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3}Оценивайте риски и не полагайтесь на надежность железа, программного обеспечения и каналов связи}{2}{subsection.1.3}%
+\contentsline {subsection}{\numberline {1.4}Согласовывайте эксплуатационные риски и планы аварийного восстановления с руководством}{3}{subsection.1.4}%
+\contentsline {subsection}{\numberline {1.5}Четко определяйте зону вашей компетентности и некомпетентности и не бойтесь обсуждать этот вопрос с руководством}{3}{subsection.1.5}%
+\contentsline {subsection}{\numberline {1.6}Всегда разделяйте ответственность за принимаемые решения, особенно если оно принято вами не единолично}{3}{subsection.1.6}%
+\contentsline {subsection}{\numberline {1.7}Согласовывайте все решения письменно}{4}{subsection.1.7}%
+\contentsline {subsection}{\numberline {1.8}Создайте понятные и удобные всем правила взаимодействия с вами. Делайте все для того, чтобы пользователи не испытывали беспокойства}{4}{subsection.1.8}%
+\contentsline {subsection}{\numberline {1.9}Регулярно проверяйте созданные резервные копии}{4}{subsection.1.9}%
+\contentsline {subsection}{\numberline {1.10}Повторяйте цикл: «снятие потребностей – анализ рисков – согласование – приведение в соответствие» хотя бы раз в год}{5}{subsection.1.10}%
